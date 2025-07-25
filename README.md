@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub profile!
 
-<!--
-**gsabinoo/gsabinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Gabriel**, an Aerospace Engineer and current Ph.D. student at the **Federal University of Uberlândia (UFU)** 🇧🇷.
 
-Here are some ideas to get you started:
+I'm passionate about solving complex structural and multi-physics problems using advanced computational tools. My work focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Finite Element Modeling (FEM)  
+- 🌊 Fluid-Structure Interaction (FSI)  
+- 🚀 High-Performance Computing (HPC)  
+- 🐍 Python-based simulation frameworks
+
+---
+
+## 👨‍🔬 About Me
+
+I'm an Aerospace Engineer and currently a Ph.D. student at the **Federal University of Uberlândia (UFU)**, Brazil.
+
+My **previous research** involved **high-performance computing (HPC)** applied to **structural modeling**, **finite element analysis**, and **fluid-structure interaction (FSI)**.
+
+I work at **LMEst – Structural Mechanics Laboratory**, part of the **School of Mechanical Engineering at UFU**, where I contribute to the development and validation of computational models for engineering applications.
+
+I have experience in developing numerical methods and simulation tools using **Fortran** and **C++**, and I'm currently working with **Python-based frameworks**, such as [**ROSS**](https://github.com/petrobras/ross), for structural dynamics and rotordynamics analysis.
+
+---
+
+## 🔗 Let’s Connect
+
+- 📫 Email: [aerospace.gsabinoo@gmail.com]  
+- 💼 [LinkedIn – Gabriel Sabino](https://www.linkedin.com/in/gabriel-sabino-02481b192)  
+- 🧪 [ORCID – 0009-0004-8178-2784](https://orcid.org/0009-0004-8178-2784)  
+- 🧭 [LMEst - Structural Mechanics Laboratory](http://www.mecanica.ufu.br/lmest)
+
+---
