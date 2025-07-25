@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-Hi there! I'm **Gabriel**, an Aerospace Engineer and current Ph.D. student at the **Federal University of Uberlândia (UFU)** 🇧🇷.
+Hi there! I'm **Gabriel**, a Ph.D. student at the **Federal University of Uberlândia (UFU)** 🇧🇷.
 
 I'm passionate about solving complex structural and multi-physics problems using advanced computational tools. My work focuses on:
 
