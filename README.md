@@ -28,6 +28,6 @@ I have experience in developing numerical methods and simulation tools using **F
 - 📫 Email: aerospace.gsabinoo@gmail.com  
 - 💼 [LinkedIn – Gabriel Sabino](https://www.linkedin.com/in/gabriel-sabino-02481b192)  
 - 🧪 [ORCID – 0009-0004-8178-2784](https://orcid.org/0009-0004-8178-2784)  
-- 🧭 [LMEst - Structural Mechanics Laboratory]([http://www.mecanica.ufu.br/lmest](https://lmest.mecanica.ufu.br/))
+- 🧭 [LMEst - Structural Mechanics Laboratory]([http://www.mecanica.ufu.br/lmest])
 
 ---
