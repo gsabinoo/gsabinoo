@@ -19,7 +19,7 @@ My **previous research** involved **high-performance computing (HPC)** applied t
 
 I work at **LMEst – Structural Mechanics Laboratory**, part of the **School of Mechanical Engineering at UFU**, where I contribute to the development and validation of computational models for engineering applications.
 
-I have experience in developing numerical methods and simulation tools using **Fortran** and **C++**, and I'm currently working with **Python-based frameworks**, such as [**ROSS**](https://github.com/petrobras/ross), for structural dynamics and rotordynamics analysis.
+I have experience in developing numerical methods and simulation tools using **Fortran** and **C++**, and I'm currently working with **Python-based frameworks**, such as [**ROSS**](https://github.com/petrobras/ross), for structural and rotordynamics analysis.
 
 ---
 
